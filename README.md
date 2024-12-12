@@ -3,6 +3,8 @@ Airbean - Framtidens Kaffeleverans.
 
 En analys av Airbean utifrån de olika delproceserna (decompisition, pattern recognition, abstraction, algorithm design)
 
+Länk till vårt FigJam: https://www.figma.com/board/HjMmJfA5exxf0VtXwRQQLB/AirBean---Ultra-Ninjas?node-id=0-1&t=ZfH5hqIdzfP6p1Vb-1
+
 Ett grupparbete i kursen "Introduktion till programmering och datalogiskt tänkande" på utbildningen FED24. Gruppmedlemmar: Senja Erlandsson, Markus Korhonen, Embla Holgersson och Daniel Fredriksson.
 
 ## Decomposition
