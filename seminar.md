@@ -48,6 +48,26 @@ Aizo ger ledtrådar om vad de olika värdena gör och vill att vi provar oss fra
 AI baserar svaret på en väldigt stor datamängd, där även gammal och utdaterad kod ingår. Vi antar att det är därför det blir såhär. AI kanske inte vet att "promise" är utdaterat.
 
 ## 07
+Genom att anpassa sin ChatGPT kan få svar baserade på sin utgångspunkt. Efter vi anpassade vår profil fick vi ett mer förenklat svar. 
 
+## 08
+ChatGPT kommer ihåg koden från första gången vi frågade, så den get inget nytt förslag utan säger endast att koden är korrekt. Gissningsvis skulle svaren utan anpassning innehålla färre kommentarer.
+
+## 09
+Vi anser att AI är okej att använda när man har fastnat och inte vet hur man ska fortsätta. Att använda AI som ett hjälp-verktyg. Men man ska inte ha AI lösa hela ens uppgifter. Vi känner att så länge man kan stå för sin uppgift och känner att man har lärt sig det man ska kunna, samt känner att man har löst de examinerande uppgifterna själv, då är det okej.
+
+## 10
+Den första risken är att man använder AI för mycket och därav inte lär sig tillräckligt. Den andra risken är att ens förmåga att lösa problem på egen hand, därav inte utvecklas. Den tredje risken är att man blir matad utdaterad information, till exempel "promise".
+
+## 11
+En risk med att använda Copilot som student är att man inte lär sig koda på riktigt utan förlitar sig på AI. En styrka kan vara att om man fastnar så kan Copilot erbjuda hjälp, samt effiktivisera sin kod.
+
+## 12
+Vi anser att det kan vara ett okej att använda om man till exempel har fastnat. Samt att man använder Copilot i begränsad mängd, så att det används mer som hjälpmedel och inte ett facit.
+
+## 13
+Vi tycker det verkar najs att Copilot kan översätta koden mellan olika språk. Samt att den ger förslag på lösningar baserat på koden du redan skrivit.
+
+## 14
 
 
