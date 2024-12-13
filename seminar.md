@@ -78,14 +78,14 @@ Ett scenario är att det kommer vara mer atraktivt med bred och generell kunskap
 ## 15
 En risk är att den använder gammal syntax, och därför kan man inte lite på koden den genererar. Om man inte själv kan koda så finns det stor risk att det blir fel. Man kan inte lita på AI till 100%. 
 
-Det finns också en risk i att företagshemligheter läcker ut om man visar kod för AI och låter AI ta del av och manipulera den.
+Det finns också en risk i att företagshemligheter läcker ut om man visar kod för AI och låter AI ta del av och manipulera den. Det kan också leda till försämrad konkurrenskraft för ett företag om kod som har byggt upp under mycket lång tid och har kostat mycket pengar helt plötligt blir tillgänglig för vem som helst.
 
 ## 16 
 Photoshop och Illustrator: AI genererar och manipulerar bilder. Fungerar utmärkt för att generera idéer snabbt, samt att få innehåll till hemsidor vi kodar. AI kan också hjälpa dig med komposition och layout.
 
 Screenshot to code: Detta verktyg kan omvandla screenshots av användargränssnitt till funktionell kod. Istället för att börja blankt så kan man utgå från koden man fått och bygga vidare på den. Man kan också lära sig nya sätt att koda den layouten man vill uppnå.
 
-Cloudinary: Ett verktyg för att optimera mediafiler utan att förlora kvaliten. Hjälper till att anpassa media för webben, så att din hemsida kan laddas snabbare. Detta hjälper till att optimera sidor genom att korta ner laddtiden.
+Cloudinary: Ett verktyg för att optimera mediafiler utan att förlora kvaliten. Hjälper till att anpassa media för webben, så att din hemsida kan laddas snabbare. Detta hjälper till att optimera sidor genom att korta ner laddtiden. Det sparar också tid, då man slipper göra detta själv i ett bildhanteringsprogram.
 
 ## 17
 Vi tror Copilot skulle vara mest användbart för oss studerande samt för oss när vi kommer ut i arbetslivet. Att skriva kod är det huvudsakliga vi nog kommer att arbeta med, därför anser vi Copilot som ett väldigt viktigt och kraftfullt verktyg. Vi tror dock att det finns många AI-funktioner som kommer vara användbara, lite beroende på vad arbetsuppgiften är.
